@@ -1,4 +1,4 @@
-module chat
+module github.com/mthaler/chat
 
 go 1.15
 
